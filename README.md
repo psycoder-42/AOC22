@@ -1,4 +1,4 @@
-# AOC23
-Advent of code 2023
+# AOC22
+Advent of code 2022
 
-Solutions and explorations of the Advent of Code 2023 puzzles 
+Solutions and explorations of the Advent of Code 2022 puzzles 
